@@ -1,0 +1,44 @@
+h1{
+    color: rgba(194, 95, 169, 0.873);
+    text-align: center;
+    font-family: Georgia, serif;;
+    font-style: italic;
+}
+
+div{
+color: rgb(206, 126, 204);
+font-weight: bold;
+font-family: Georgia, serif;
+}
+
+button{
+    background-color:#0a0a23;
+color: rgb(203, 121, 180);
+padding: 15px 32px;
+text-align: center;
+font-size: 14px;
+margin: 4px 2px;
+cursor: pointer;
+font-weight: bold;
+border-radius: 15px;
+
+}
+fieldset{
+    background-color: rgb(245, 223, 242);
+}
+textarea{
+    border-radius: 15px;
+}
+
+label{
+    border-radius: 15px;
+}
+#sauce{
+    font-weight: bold;
+    background-color:#0a0a23;
+   border-radius: 15px;
+   color: rgb(203, 121, 180);
+
+}
+
+
